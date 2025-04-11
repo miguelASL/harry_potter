@@ -61,7 +61,7 @@ El script genera varias visualizaciones interactivas:
 ### Ejemplo de Visualizaciones 🌟
 
 #### 🎓 Personajes por Casa
-![Personajes por Casa](img/diversidad_especies.png)
+![Personajes por Casa](img/personajes_por_casa.png)
 
 #### 📚🎬 Línea de Tiempo de Libros y Películas
 ![Línea de Tiempo](img/libro_peliculas.png)
