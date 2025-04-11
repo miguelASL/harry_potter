@@ -32,7 +32,8 @@ pip install pandas plotly ydata-profiling
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/miguelASL/harry_potter
+    git clone https://github.com/miguelASL/harry_potter
+    cd harry_potter
    ```
 
 2. Asegúrate de que los archivos CSV estén en la carpeta del proyecto.
@@ -40,7 +41,7 @@ pip install pandas plotly ydata-profiling
 3. Ejecuta el script principal:
 
    ```bash
-   python main.py
+    python main.py
    ```
 
 4. Disfruta de las visualizaciones interactivas generadas.
@@ -57,14 +58,16 @@ El script genera varias visualizaciones interactivas:
 
 ### Ejemplo de Visualizaciones 🌟
 
+### Ejemplo de Visualizaciones 🌟
+
 #### 🎓 Personajes por Casa
-![Personajes por Casa](img\diversidad_especies.png)
+![Personajes por Casa](img/diversidad_especies.png)
 
 #### 📚🎬 Línea de Tiempo de Libros y Películas
-![Línea de Tiempo](img\libro_peliculas.png)
+![Línea de Tiempo](img/libro_peliculas.png)
 
 #### 🌳 Diversidad de Especies por Casa
-![Diversidad de Especies](img\diversidad_especies.png)
+![Diversidad de Especies](img/diversidad_especies.png)
 
 ## 🤝 Contribuciones
 
